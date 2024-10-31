@@ -55,8 +55,8 @@ unban_user - [user_id] Unban Any User [Owner Only]
 banned_users - Get All Banned Users [Owner Only]
 ```
 
-### Support Group:
-<a href="https://t.me/JoinOT"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+### Support :
+<a href="https://t.me/dhruv_lathia"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ### Follow on:
 <p align="left">
