@@ -8,7 +8,7 @@ from binascii import (
 )
 from pyrogram import (
     Client,
-    enums,
+    types,
     filters
 )
 from pyrogram.errors import (
